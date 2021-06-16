@@ -294,6 +294,8 @@ machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
+G-Drive token https://replit.com/@xgorn/gdrivetoken
+
 # Credits
 
 Thanks to:
